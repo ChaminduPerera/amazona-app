@@ -46,11 +46,11 @@ const data={
           },
           {
             _id:'5',
-            name:'Puma slim Pants',
+            name:'Puma slim Pants', 
             category:'Pants',
             Image:'/images/product5.webp' ,
             price:65 ,
-            brand:'puma' ,
+            brand:'puma' , 
             rating:4.2 ,
             numReviews:10,
             description:'high quality product',
