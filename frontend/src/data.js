@@ -46,7 +46,7 @@ const data={
           },
           {
             _id:'5',
-            name:'Puma slim Pants', 
+            name:'Puma slim Pants',  
             category:'Pants',
             Image:'/images/product5.webp' ,
             price:65 ,
